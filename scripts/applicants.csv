@@ -1,0 +1,5 @@
+applicantId,externalId,creationDate,lastReviewDate,applicantName,applicantEmail,applicantPhoneNumber,applicantCountry,rejectType,rejectLabels,customTags,sourceKey,result,userComment,clientComment
+6253f23784ff6c00015dd642,graham@neftyseven.com_624daf688aa0b70001cf5af7,2022-04-11 09:17:43,2022-04-11 09:22:24,GRAHAM JOHN DICK,graham@neftyseven.com,,FRA,,,,,GREEN,,
+6253ec32a4fd11000163d961,laurent.menegazzi@gmail.com_624daf688aa0b70001cf5af7,2022-04-11 08:52:02,2022-04-11 08:58:12,LAURENT LOUIS MENEGAZZI,laurent.menegazzi@gmail.com,,FRA,,,,,GREEN,,
+62505aa874e3a2000116c80a,level-1fcfa185-04dc-46e5-acf5-f80a0f8decbd,2022-04-08 15:54:16,2022-04-08 16:16:54,LEO MARTIN LECLERCQ,,,FRA,,,,,GREEN,,
+624f3bea73b38f00013402a2,preview-random-ra0h05lldk,2022-04-07 19:30:50,2022-04-08 15:23:58,THIERRY OLIVIER CORBEL,,,FRA,,,,,GREEN,,

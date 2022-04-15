@@ -1,0 +1,28 @@
+.myHome {
+  background: linear-gradient(180deg, #2A2C6A 0%, #3D3F7C 24.86%, #6F72CB 36.79%, #5B5EB3 40.03%, #050623 80.9%);
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+
+
+}
+
+/*PAGE CGV ET CGU*/
+.containerInfos {
+  background: linear-gradient(#2F2C69, #342978, #2A1B61, black);
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  color: white;
+}
+
+.containerInfos>div {
+  display: flex;
+  flex-direction: column;
+  display: flex;
+  padding: 15px 0px;
+  color: white;
+}
